@@ -1,0 +1,27 @@
+/* CSS files add styling rules to your content */
+
+
+
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+body{
+  text-align:center;
+  background-color: black;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: -10px;
+  /* -1/2 width */
+  margin-top: -10px;
+  /* -1/2 height */
+}
+
+#canvas{
+  
+}
